@@ -1,0 +1,24 @@
+Funktion und Aufbau von Bibliothekssystemen Part 2
+
+In der ersten Unterrichtseinheit widmeten wir uns zum Glück nochmals der Installation von Koha. 
+Da es bei mir Zuhause nicht geklappt hatte, fand ich den angebotenen Support sehr hilfreich. 
+Nach einigen misslungen Versuchen, Koha zum Laufen zu bringen, musste ich schliesslich Koha nochmals ganz neu aufsetzen. 
+Dies hat dann zum Glück geklappt und ich war sehr erleichtert als es endlich auch auf meinem Rechner lief. 
+Insgesamt war die misslungene Installation sehr frustrierend, da ich nicht wusste was ich genau falsch gemacht hatte.
+
+ 
+
+Nachdem mein Koha endlich lief, fand ich es spannend die verschiedenen Funktionen darin kennenzulernen. 
+Wir machten eine kleine Übung in der wir ein Buch per Kurzkatalogisat in Koha aufnahmen und dann dieses Buch einem angelegten Benutzer ausleihen sollten. 
+Dies machte mir Spass, da es spannend ist andere Systeme kennenzulernen. Koha ist sehr benutzerfreundlich, intuitiv und einfach zu verstehen. 
+Es ist auch viele Gemeinsamkeiten zu Alma.
+
+Hausaufgabe Installation Archives Space
+
+Da ich bei der letzten Lektion nicht mehr ganz nachgekommen bin, habe ich als Hausaufgabe auch noch die Kapitel für die Konfiguration von Koha nachgearbeitet. 
+Bei der Installation von Archives Space hatte ich genau dasselbe Problem wie auch bei Koha. 
+Die Befehle fürs Terminal hatte ich 1:1 kopiert und die Installation lief ohne Probleme. 
+Als ich am Schluss aber die Localhost 8080 Site aufrufen wollte, kam die Meldung «unable to connect». 
+Ich habe es jetzt mal dabei belassen und hoffe es gibt eine einfach Lösung dazu.
+
+  
