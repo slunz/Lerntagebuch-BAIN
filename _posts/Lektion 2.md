@@ -34,3 +34,8 @@ Weil alle Bibliotheken die Felder möglichst gleich ausfüllen, gelingt der Aust
 Es gibt aber auch Felder in denen Lokaldaten eingefüllt werden, diese erschweren den Austausch. 
 Beim Datenaustausch werden diese kleinen Abweichungen und Unterschiede aber berücksichtigt. 
 Marc21 wurde von der library of congress entwickelt und Bibframe wird in Zukunft sehr wahrscheinlich Marc21 ablösen. 
+
+### Hausaufgabe Installation von Koha
+
+Als Hausaufgabe auf die nächste Vorlesung mussten wir die Installation von Koha vervollständigen. Leider begegnete ich auch hier grossen Problemen, weil ich nach der Vorinstallation auf dem Terminal die Seite «http://bibliothek-intra.meine-schule.org» nicht aufrufen konnte. Meines Wissens nach, hatte ich alle Befehle fürs Terminal genau so eingegeben, aber ich konnte schliesslich einfach nicht die Seite von Koha aufrufen. Per Mail habe ich vor der nächsten Unterrichtseinheit noch Kontakt zum Dozenten aufgenommen, aber leider konnte das Problem nicht über Mail gelöst werden.
+Bei mir statt Koha diese Seite angezigt: 
