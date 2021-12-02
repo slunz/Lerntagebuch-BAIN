@@ -1,0 +1,7 @@
+
+
+Übung zur OAI Schnittstelle
+
+Da meine Daten auf DSpace am Samstag gelöscht wurden, habe ich eine neue Community und Collection angelegt. Dies hat gut geklappt und die Wiederholung hat mir gut getan, beim ersten Mal ging mir nämlich alles zu schnell. Mit einem Blick in die aufgenommene letzte Vorlesung, konnte ich dann auch ein Dokument anhängen. Wie in der Vorlesung auch, habe ich mit JSPUI gearbeitet. Ich bin wirklich froh, dass die Vorlesungen aufgenommen werden da ich in der Vorlesung selber zum Teil nicht nachkomme.
+
+Einige Stunden später habe ich versucht die Collection unter dem folgenden Link : aufzurufen. Leider war die Community noch nicht auffindbar. Einen Tag später habe ich es nochmals probiert, und dann war sie da. Das Kopieren der Metadaten lief problemlos. Ich fand die Übung interessant, da ich noch nie so etwas gemacht habe. Allerdings fand ich es auch sehr herausfordernd und der Übung während der Stunde zu folgen, hat mich ziemlich gestresst. Für was ich diese Lerninhalte in meiner Praxis genau brauchen werde, ist mir zur Zeit noch eher schleierhaft. Insgesamt bin ich einfach nur froh, dass ich diese Übung irgendwie hingekriegt habe.
