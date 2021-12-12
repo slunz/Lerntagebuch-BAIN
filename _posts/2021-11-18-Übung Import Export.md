@@ -1,4 +1,7 @@
- Übung Import Export
+ ---
+title: "Übung Import Export"
+date: 2021-11-18
+---
 
 Der Import hatte problemlos geklappt. Beim Export hingegen, hatte ich sehr lange bis ich endlich die Export Funktion im Archives Space gefunden hatte. 
 Ich fand es ein wenig schräg, dass die beiden Funktionen von Import und Export nicht beieinander waren. Als ich den Button endlich gefunden hatte, konnte ich das Dokument ohne Probleme herunterladen und speichern.
