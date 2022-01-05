@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>aaie</eadid><filedesc><titlestmt><titleproper>American Association of Industrial Editors (AAIE) Records <num>2750900</num></titleproper><subtitle>A description of the collection at Syracuse University</subtitle><author>MRC</author></titlestmt><publicationstmt><publisher>Mein erstes Archiv</publisher><p><date>6 May 2010</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-12-07 14:18:17 +0100</date>.</creation><langusage>English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Mein erstes Archiv</corpname>
+    </repository>
+    <unittitle>American Association of Industrial Editors (AAIE) Records</unittitle>
+    <unitid>2750900</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 linear ft.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1939/1958" type="inclusive">1939-1958</unitdate>
+    <abstract id="aspace_4a432ba645ae8ea191290e0203b4eb3e">Minutes, reports, photographs, printed materials from the American professional editors' association.</abstract>
+    <langmaterial id="aspace_43ef3bc5357a18b95c04bc42d482c9d3">English</langmaterial>
+  </did>
+  <odd id="aspace_c904ad20a9ae6d881d76741194d5ceaf">
+    <head>General</head>
+    <list type="ordered"/>
+  </odd>
+  <bioghist id="aspace_77058a4879b2a2108a3b3de5494e5f01">
+    <head>Biographical History</head>
+<p>The American Association of Industrial Editors was formed in 1938 by a small group of editors of industrial publications and house organs, who saw their mission as increasing professionalism among editors, improving quality of publications and serving management. Within a few months the fledgling organization had members from 17 states and by 1939 they began publishing the Editor's Notebook, aimed at editors of industrial and corporate magazines. In 1941 AAIE became one of several charter members of the National Council of Industrial Editors Association (NCIEA), which later became the International Council of Industrial Editors (ICIE). AAIE withdrew from ICIE in 1946 over policy differences but the two organizations merged again in 1970, becoming the International Association of Business Communicators (IABC).</p>  </bioghist>
+  <scopecontent id="aspace_fa758ebbb93f899c925c689dd5ead291">
+    <head>Scope and Contents of the Collection</head>
+<p>The <emph render="bold">American Association of Industrial Editors Records</emph> contains minutes, reports, photographs, printed materials and other items from the American professional editors' association.</p>  </scopecontent>
+  <arrangement id="aspace_b862a5492725bce66bcfcbef8bca395d">
+    <head>Arrangement of the Collection</head>
+<p>The collection is unprocessed and remains in original order.</p>  </arrangement>
+  <accessrestrict id="aspace_3830b9e7aa4c7fa65ec794b847eafee0">
+    <head>Access Restrictions</head>
+<p>The collection is unprocessed and accessible by special permission only.</p>  </accessrestrict>
+  <userestrict id="aspace_95fdf2c6be95db69c0372fc03675591f">
+    <head>Use Restrictions</head>
+<p>Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</p>  </userestrict>
+  <prefercite id="aspace_cdf450dcb05fbd89ae31b75b6086a880">
+    <head>Preferred Citation</head>
+<p>Preferred citation for this material is as follows:</p><p> American Association of Industrial Editors (AAIE) Records,</p>  </prefercite>
+  <acqinfo id="aspace_95464d9f0bdaaa671acc22ad98f9081e">
+    <head>Acquisition Information</head>
+<p>Gift of <persname role="donor">Samuel V. Kennedy</persname>, 1980.</p>  </acqinfo>
+  <odd id="aspace_2542abd6ca84739f23069c1373514731">
+    <head>General</head>
+<p>An inventory has not yet been created for this collection. Please contact the Repository listed above for more information.</p>  </odd>
+  <controlaccess>
+    <subject source="local">Business and Industry</subject>
+    <subject source="local">Journalism</subject>
+    <subject source="lcsh">Editors -- Professional associations.</subject>
+    <subject source="lcsh">House organs.</subject>
+    <genreform source="aat">Minutes.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Reports.</genreform>
+    <occupation source="lcsh">Editors.</occupation>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
