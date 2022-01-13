@@ -1,8 +1,8 @@
-
 ---
 title: "Wo bin ich gestartet: Einführungsartikel"
 date: 2021-09-15
 ---
+
 ### beruflicher Hintergrund
 In die Bibliotheks-und Archivswelt gestartet, bin ich mit einer Lehre zur Fachfrau Information und Dokumentation im Sozialarchiv mit dem Abschluss im Jahr 2016.
 Nach der Lehre habe ich eine Weile an der Universität Zürich gearbeitet mit dem Bibliothekssystem Aleph und nebenbei die BMS besucht. Den Wechsel von Aleph auf Alma habe ich dann an der ZHAW Winterthur miterlebt, wo ich auch heute noch angestellt bin. Ich arbeite vor allem im Team Benutzung und ein wenig im Erwerbungsteam. An der FHGR befinde ich mich nun im 5. Semester des Teilzeitstudiums mit der Vertiefungsrichtung Bibliotheksmanagement. Da ich in diesem Semester nur 2 Module hatte, habe ich mich entschieden ein Modul aus der Zukunft vorzuziehen. Die Grundlagemodule wie ARIS und GSET habe ich schon besucht.
