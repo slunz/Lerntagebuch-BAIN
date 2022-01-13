@@ -1,8 +1,9 @@
+---
+title: "Reflexion"
+date: 2021-12-17
+---
 
 
-Reflexion BAIN 
-
- 
 
 ### Allgemeiner Rückblick
 
