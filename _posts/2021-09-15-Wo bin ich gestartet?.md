@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel: wo bin ich gestartet?"
-date: 2021-09-15
+date: 2021-09-14
 ---
 
 ### beruflicher Hintergrund
