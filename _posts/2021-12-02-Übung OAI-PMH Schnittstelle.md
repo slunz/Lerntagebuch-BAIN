@@ -1,5 +1,5 @@
 ---
-title: "Übung OAI-PMH Schnittstelle"
+title: "Übung 2 OAI-PMH Schnittstelle"
 date: 2021-12-02
 ---
 
