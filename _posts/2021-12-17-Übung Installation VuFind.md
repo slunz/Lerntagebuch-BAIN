@@ -1,5 +1,5 @@
 ---
-title: Übung Vufind:"Konfiguration Suche und Facetten"
+title: Übung 3 Vufind:"Konfiguration Suche und Facetten"
 date: 2021-12-17
 ---
 
@@ -15,5 +15,6 @@ Das Problem konnte ich lösen, indem ich «sudo apt-get update» eingegeben habe
 Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5) zu Vufind hatte ich Mühe, da ich zuerst nicht wusste wie ich zu dieser Konfigurationsseite genau komme. Mit dem Befehl "sudo gedit /usr/local/vufind/local/config/vufind/config.ini" habe ich zumindest die Konfigurationsdatei gefunden aber wie ich von dort zu "searches.ini" gelangen sollte ist und bleibt mir schleiherhaft.
 
 
+![Konfiguration](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/searches.png)
 
 
