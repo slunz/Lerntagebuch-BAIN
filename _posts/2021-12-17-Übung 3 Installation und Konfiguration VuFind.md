@@ -1,5 +1,5 @@
 ---
-title: Übung 3: Vufind:"Konfiguration Suche und Facetten"
+title: "Übung 3: Vufind Konfiguration Suche und Facetten"
 date: 2021-12-17
 ---
 
