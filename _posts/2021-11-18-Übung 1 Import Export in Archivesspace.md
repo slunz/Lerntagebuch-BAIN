@@ -22,3 +22,4 @@ Eine Konvertierung von einem Metadatenstandard in den anderen gelingt normalerwe
 Eine solche Konvertierung nennt man auch «Crosswalks». 
 
 
+Zeichen:1410
