@@ -16,7 +16,8 @@ Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5r
 
 ![Konfiguration](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/searches.png)
 
-Trotzdem habe ich mir das Video angeschaut und konnte die einzelnen Schritte gut nachvollziehen. Es wurde erklärt, wie man die Anzahl Suchresultate und Suchfacetten oder Filter anpassen kann. Man kann Vufind ganz nach seinen Wünschen konfigurieren, was für Institutionen sehr nützlich ist. 
+Trotzdem habe ich mir das Video angeschaut und konnte die einzelnen Schritte gut nachvollziehen. Es wurde erklärt, wie man die Anzahl Suchresultate und Suchfacetten anpassen kann. Beim Dropdown Menu zum Beispiel kann man die Reihenfolge und die Bezeichnungen ändern. Zu dem kann man im Verzeichnis *facets.ini* den Standort und die Anzahl der Facetten ändern. Im Verzeichnis *searchspecs.yaml* könnte man auch anpassen, wie Vufind die Relevanz der Suchtreffer rankt.
+Allgemein kann man Vufind ganz nach seinen Wünschen konfigurieren, was für den Einsatz in verschiednen Institutionen sehr nützlich ist. 
 
 
-Zeichen: 1350
+Zeichen: 1865
