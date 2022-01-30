@@ -16,4 +16,4 @@ Eine Konvertierung von einem Metadatenstandard in den anderen gelingt normalerwe
 Eine solche Konvertierung nennt man auch «Crosswalks». 
 
 
-![Export](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/Import_Export_Übung.png)
+![Export](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/Import_Export_Übung.xml)
