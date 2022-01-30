@@ -12,8 +12,8 @@ Das Problem konnte ich lösen, indem ich «sudo apt-get update» eingegeben habe
 
 ### Konfiguration
 
-Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5) zu Vufind hatte ich Mühe, da ich nicht wusste, wie ich zu dieser Konfigurationsseite genau komme. Mit dem Befehl "sudo gedit /usr/local/vufind/local/config/vufind/config.ini" habe ich zumindest die Konfigurationsdatei gefunden aber wie ich von dort zu "searches.ini" gelangen sollte blieb mir schleierhaft.
+Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5) zu Vufind hatte ich Mühe, da ich nicht wusste, wie ich zu dieser Konfigurationsseite genau komme. Mit dem Befehl "sudo gedit /usr/local/vufind/local/config/vufind/config.ini" habe ich zumindest die Konfigurationsdatei gefunden aber wie ich von dort zu "searches.ini" gelangen sollte bleibt mir schleierhaft.
 
 ![Konfiguration](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/searches.png)
 
-Trotzdem habe ich mir das Video angeschaut und konnte die einzelnen Schritte gut nachvollziehen.
+Trotzdem habe ich mir das Video angeschaut und konnte die einzelnen Schritte gut nachvollziehen. Es wurde erklärt wie man die Anzahl Suchresultate und Suchfacetten oder Filter anpassen kann.Man kann Vufind ganz nach seinen Wünschen konfigurieren, was für Institutionen sehr nützlich ist. 
