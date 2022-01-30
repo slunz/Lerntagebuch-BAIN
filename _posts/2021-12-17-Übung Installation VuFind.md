@@ -12,7 +12,7 @@ Das Problem konnte ich lösen, indem ich «sudo apt-get update» eingegeben habe
 
 ### Konfiguration
 
-Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5) zu Vufind hatte ich Mühe, da ich zuerst nicht wusste wie ich zu dieser Konfigurationsseite genau komme. Mit dem Befehl "sudo gedit /usr/local/vufind/local/config/vufind/config.ini" habe ich zumindest die Konfigurationsdatei gefunden aber wie ich von dort zu "searches.ini" gelangen sollte war mit schleiherhaft.
+Mit dem [Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5) zu Vufind hatte ich Mühe, da ich zuerst nicht wusste wie ich zu dieser Konfigurationsseite genau komme. Mit dem Befehl "sudo gedit /usr/local/vufind/local/config/vufind/config.ini" habe ich zumindest die Konfigurationsdatei gefunden aber wie ich von dort zu "searches.ini" gelangen sollte ist und bleibt mir schleiherhaft.
 
 
 
