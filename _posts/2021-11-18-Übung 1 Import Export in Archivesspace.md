@@ -1,5 +1,5 @@
 ---
-title: "Übung 1 Import Export in Archivesspace"
+title: "Übung 1: Import Export in Archivesspace"
 date: 2021-11-18
 ---
 Die Aufgabe war es, Beispieldaten der folgenden Seite in Archivesspace zu importieren. Der Import in Archivesspace hatte problemlos geklappt.
