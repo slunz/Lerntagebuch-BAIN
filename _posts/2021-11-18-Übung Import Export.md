@@ -14,3 +14,6 @@ Während Marc 21 für Bibliotheksdaten bestimmt ist und dadurch für Medien konz
 
 Eine Konvertierung von einem Metadatenstandard in den anderen gelingt normalerweise nicht verlustfrei. 
 Eine solche Konvertierung nennt man auch «Crosswalks». 
+
+
+![Export](https://raw.githubusercontent.com/slunz/Lerntagebuch-BAIN/master/pictures/Import_Export_Übung.png)
