@@ -15,4 +15,4 @@ Das Kopieren der Metadaten lief problemlos. Hier das Endresultat:
 
 Ich fand die Übung interessant, da ich noch nie so etwas gemacht habe. Allerdings fand ich es auch sehr herausfordernd. Ich bin froh, dass ich es doch noch hingekriegt habe.
 
-
+Zeichen: 1117
